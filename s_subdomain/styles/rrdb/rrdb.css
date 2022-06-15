@@ -1,0 +1,12 @@
+.table td.fit,
+.table th.fit {
+    white-space: nowrap;
+    width: 1%;
+}
+.rrlblue {
+    background-color: #ECEFF9;
+    color: #015596;
+}
+.data-text {
+    color: #404040;
+}
